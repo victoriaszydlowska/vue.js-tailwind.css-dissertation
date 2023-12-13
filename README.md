@@ -1,6 +1,6 @@
 
 
-# final-year-project
+# Final year project @2022. Accessibility in web applications using front-end frameworks. (pdf available within the files)
 
 ## Project setup
 ```
