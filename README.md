@@ -1,6 +1,6 @@
 
 
-# Final year project @2022. Accessibility in web applications using front-end frameworks. (pdf available within the files)
+# Final year project @2022. Accessibility in web applications using front-end frameworks (pdf available within the files). Old project. Not updated since.
 
 ## Project setup
 ```
